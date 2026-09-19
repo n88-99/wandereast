@@ -2,7 +2,7 @@ backend:
   name: github
   repo: n88-99/wandereast
   branch: main
-  base_url: https://wandereast.pages.dev
+  base_url: https://wandereast-site.pages.dev
   auth_endpoint: api/auth
 
 media_folder: "assets"
@@ -10,7 +10,7 @@ public_folder: "assets"
 
 publish_mode: editorial_workflow
 
-site_url: https://wandereast.pages.dev
+site_url: https://wandereast-site.pages.dev
 
 collections:
   - name: tours
