@@ -1,0 +1,39 @@
+backend:
+  name: github
+  repo: n88-99/wandereast
+  branch: main
+  base_url: https://wandereast.pages.dev
+  auth_endpoint: api/auth
+
+media_folder: "assets"
+public_folder: "assets"
+
+publish_mode: editorial_workflow
+
+site_url: https://wandereast.pages.dev
+
+collections:
+  - name: tours
+    label: "Itineraries (Tours)"
+    folder: ""
+    files:
+      - name: tours
+        label: Tour list
+        file: data/tours.json
+        fields:
+          - name: tours
+            label: Tours
+            label_singular: Tour
+            widget: list
+            fields:
+              - { label: "Filter tag (china / thailand / vietnam)", name: dest, widget: string, hint: "Use 'vietnam thailand' for combined trips" }
+              - { label: "Photo", name: image, widget: image }
+              - { label: "Photo alt text", name: alt, widget: string }
+              - { label: "Duration badge", name: badge, widget: string, hint: "e.g. 5 days / 4 nights" }
+              - { label: "Location line", name: country, widget: string, hint: "e.g. Zhangjiajie, China" }
+              - { label: "Tour title", name: title, widget: string }
+              - { label: "Short blurb", name: blurb, widget: text }
+              - { label: "Highlights", name: highlights, widget: list, field: { label: Highlight, name: highlight, widget: string } }
+              - { label: "Price", name: price, widget: string, hint: "e.g. US$780" }
+              - { label: "Price note", name: priceNote, widget: string, hint: "per person, twin share" }
+              - { label: "Request button label", name: requestLabel, widget: string }

@@ -1,0 +1,104 @@
+[
+  {
+    "dest": "china",
+    "image": "assets/zhangjiajie-glassbridge.jpg",
+    "alt": "Tourists walking across the glass bridge over Zhangjiajie Grand Canyon",
+    "badge": "5 days / 4 nights",
+    "country": "Zhangjiajie, China",
+    "title": "Avatar Peaks & Glass Bridge",
+    "blurb": "Two UNESCO valleys, a sky road and a glass walk above a 300-metre drop.",
+    "highlights": [
+      "Yuanjiajie & the Avatar Hallelujah Mountain",
+      "Tianmen Mountain cableway & 99-bend road",
+      "Grand Canyon glass bridge"
+    ],
+    "price": "US$780",
+    "priceNote": "per person, twin share",
+    "requestLabel": "Avatar Peaks & Glass Bridge (5D)"
+  },
+  {
+    "dest": "china",
+    "image": "assets/xian-warriors-close.jpg",
+    "alt": "Close-up of two Terracotta Warriors showing intricate armour detail",
+    "badge": "4 days / 3 nights",
+    "country": "Xi'an, China",
+    "title": "Terracotta Warriors & the Ancient Capital",
+    "blurb": "An army of 8,000, a 14th-century wall and the flavours of the Silk Road.",
+    "highlights": [
+      "Terracotta Army & Qin Shi Huang's mausoleum",
+      "Sunset bike ride on the City Wall",
+      "Muslim Quarter street-food walk"
+    ],
+    "price": "US$520",
+    "priceNote": "per person, twin share",
+    "requestLabel": "Terracotta Warriors & the Ancient Capital (4D)"
+  },
+  {
+    "dest": "china",
+    "image": "assets/zhangjiajie-panorama.jpg",
+    "alt": "Panoramic view of the karst columns at Yuanjiajie, Wulingyuan scenic area",
+    "badge": "9 days / 8 nights",
+    "country": "Zhangjiajie + Xi'an, China",
+    "title": "Grand China: Peaks & Warriors",
+    "blurb": "The two icons of central China, connected by high-speed rail — no internal flights needed.",
+    "highlights": [
+      "All Zhangjiajie highlights plus glass bridge",
+      "Terracotta Army & Xi'an City Wall",
+      "High-speed rail between (comfort class)"
+    ],
+    "price": "US$1,580",
+    "priceNote": "per person, twin share",
+    "requestLabel": "Grand China: Peaks & Warriors (9D)"
+  },
+  {
+    "dest": "thailand",
+    "image": "assets/thailand-railay.jpg",
+    "alt": "Longtail boat on turquoise water at Railay Beach with limestone cliffs, Krabi",
+    "badge": "8 days / 7 nights",
+    "country": "Bangkok + Krabi, Thailand",
+    "title": "Thailand: Temples to Islands",
+    "blurb": "From the glittering Grand Palace to longtail boats and limestone coves in the Andaman Sea.",
+    "highlights": [
+      "Grand Palace, Wat Pho & a canal boat ride",
+      "Railay & Phi Phi island day trips",
+      "Two street-food nights with a local host"
+    ],
+    "price": "US$990",
+    "priceNote": "per person, twin share",
+    "requestLabel": "Thailand: Temples to Islands (8D)"
+  },
+  {
+    "dest": "vietnam",
+    "image": "assets/vietnam-hoian-river.jpg",
+    "alt": "Boats and glowing lanterns floating on the river in Hoi An at dusk",
+    "badge": "7 days / 6 nights",
+    "country": "Hanoi + Ha Long + Hoi An, Vietnam",
+    "title": "Vietnam: Emerald Bay & Lantern Town",
+    "blurb": "An overnight cruise in Ha Long Bay, then the most charming old town in Southeast Asia.",
+    "highlights": [
+      "Overnight cruise among 1,600 karst islands",
+      "Hanoi Old Quarter & train-street coffee",
+      "Hoi An lantern night & tailor street"
+    ],
+    "price": "US$850",
+    "priceNote": "per person, twin share",
+    "requestLabel": "Vietnam: Emerald Bay & Lantern Town (7D)"
+  },
+  {
+    "dest": "vietnam thailand",
+    "image": "assets/vietnam-halong-cruise.jpg",
+    "alt": "White cruise ship anchored in the green waters of Ha Long Bay",
+    "badge": "12 days / 11 nights",
+    "country": "Vietnam + Thailand",
+    "title": "Indochina Escapade",
+    "blurb": "Two countries, one story: karst bays and lantern rivers, then golden temples and island seas.",
+    "highlights": [
+      "Hanoi → Ha Long → Hoi An",
+      "Bangkok temples & canals",
+      "Three nights on the Krabi coast"
+    ],
+    "price": "US$1,650",
+    "priceNote": "per person, twin share",
+    "requestLabel": "Indochina Escapade (12D)"
+  }
+]
